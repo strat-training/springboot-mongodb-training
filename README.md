@@ -13,7 +13,7 @@ To maximize your time during the hands-on labs, you must have your local environ
 
 ### 1. Java Development Kit (JDK)
 * **Required Version:** **JDK 17** or **JDK 21** (Long Term Support versions).
-* **Installation:** Install via [SDKMAN!](https://sdkman.io/) (`sdk install java 17-open`) or download directly from [Eclipse Temurin (Adoptium)](https://adoptium.net/).
+* **Installation:** Install using [tutorial](https://www.geeksforgeeks.org/java/download-and-install-jdk-on-windows-mac-and-linux/) 
 * **Verification:** Run `java -version` in your terminal. Ensure the output points to version 17 or higher.
 
 ### 2. Build Tool
@@ -72,7 +72,7 @@ Trainees are required to successfully complete all **4 hands-on modules** in seq
 
 ---
 
-## 🎯 Hard Expectations & Graduation Criteria
+## 🎯 Expectations and Criteria for completion
 
 At the conclusion of this 2-week training cycle, you will present a working proof-of-concept (POC) application to your tech lead. You are expected to demonstrate complete competency in the following areas:
 
